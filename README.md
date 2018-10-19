@@ -10,4 +10,5 @@ Configuration Options
 - step (Integer): The amount to increase/decrease the amplitude by each cycle. 
 
 Data Produced
+
 ![image](https://github.com/JonScott20/foglamp-south-amplitude-sinusoid/blob/master/images/AmpWave-FogLAMP.png)
