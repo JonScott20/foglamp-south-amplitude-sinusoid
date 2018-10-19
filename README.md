@@ -1,5 +1,5 @@
 # foglamp-south-amplitude-sinusoid
-South plugin for the sinusoid with configurable amplitude cycle.
+South plugin for the sinusoid with a configurable amplitude cycle.
 
 ## Debian Package
 https://github.com/JonScott20/foglamp-south-amplitude-sinusoid/raw/master/foglamp-south-amplitude-sinusoid-0.0.1.deb
