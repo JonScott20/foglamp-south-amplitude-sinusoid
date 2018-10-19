@@ -13,7 +13,7 @@ SHA-256: 9E5FC53EC6C9FEBCF548ED44043949BC5C807B1EEA6BA6769633DD6E439C1878
 1. Download the Debian package to a machine installed with FogLAMP.
 2. Navigate to the directory of the Debian package
 3. Ensure that FogLAMP is running.
-4. run "apt install ./foglamp-south-amplitude-sinusoid-0.0.1.deb NOTE: the "./" in front of the package name is important here!
+4. run "sudo apt install ./foglamp-south-amplitude-sinusoid-0.0.1.deb NOTE: the "./" in front of the package name is important here!
 5. Restart FogLAMP
 
 ## Configuration Options
